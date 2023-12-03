@@ -1,16 +1,20 @@
-### Hi there 👋
-
-<!--
-**abir52535/abir52535** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Message for you</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="wrapper">
+<h2 class="question">You like me?</h2>
+<img class="gif" alt="gif"
+src="https://raw.githubusercontent.com/DzarelDeveloper/Img/main/gifyou.webp">
+<div class="btn-group"> <button class="yes-btn">Yes</button> <button class="no-
+btn">No</button>
+</div>
+</div>
+<script src="script.js"></script>
+</body>
+</html>
